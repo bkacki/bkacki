@@ -24,33 +24,33 @@ Expanding: Skills in asynchronous programming and efficient data handling.
 
 Here are some of the projects I've worked on:
 
-🔐 SimpleRSA
+### 🔐 SimpleRSA
 
 A tool for learning and experimenting with RSA encryption in a simple and user-friendly way.
 
-🧮 CaesarCipher
+### 🧮 CaesarCipher
 
 A console application that encodes and decodes text using the Caesar Cipher algorithm.
 
-❓ RandomPersonService
+### ❓ RandomPersonService
 
 Generates random personal data using asynchronous HTTP operations, Google Maps API and my librarie - RandomPersonalDataGenerator.
 
-🔍 GrepForWindows
+### 🔍 GrepForWindows
 
 A Windows utility inspired by the classic grep, designed for quick text search in files.
 
-🐄 CowsayForWindows
+### 🐄 CowsayForWindows
 
 A fun console application that mimics the famous cowsay program.
 
 # 🌱 What I'm Looking For
 
-Junior developer opportunities where I can grow my skills.
+- Junior developer opportunities where I can grow my skills.
 
-Guidance on working with databases and penetration testing.
+- Guidance on working with databases and penetration testing.
 
-Collaborative projects to learn from experienced developers.
+- Collaborative projects to learn from experienced developers.
 
 # 📫 Contact Me
 
