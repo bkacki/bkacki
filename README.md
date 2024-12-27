@@ -54,8 +54,6 @@ A fun console application that mimics the famous cowsay program.
 
 # 📫 Contact Me
 
-- GitHub: github.com/bkacki
-
 - LinkedIn: linkedin.com/in/bkacki
 
 Feel free to connect, share ideas, or collaborate on exciting projects!
