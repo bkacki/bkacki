@@ -4,43 +4,43 @@ Welcome to my GitHub profile! I'm an aspiring junior developer and a beginner pr
 
 # 🛠️ Skills & Interests
 
-Programming Languages: C#, some experience with HTML, CSS and JS
+- Programming Languages: C#, some experience with HTML, CSS and JS
 
-Project Types: Console applications, encryption tools, and utilities.
+- Project Types: Console applications, encryption tools, and utilities.
 
-Interests: Cryptography, databases, and penetration testing.
+- Interests: Cryptography, databases, and penetration testing.
 
 # 📚 Learning Journey
 
 Currently, I'm:
 
-Finishing: Head First C# to strengthen my knowledge of C#.
+- Finishing: Head First C# to strengthen my knowledge of C#.
 
-Exploring: Databases and their integration with C# applications.
+- Exploring: Databases and their integration with C# applications.
 
-Expanding: Skills in asynchronous programming and efficient data handling.
+- Expanding: Skills in asynchronous programming and efficient data handling.
 
 # 🚀 Projects
 
 Here are some of the projects I've worked on:
 
-### 🔐 SimpleRSA
+### - 🔐 SimpleRSA
 
 A tool for learning and experimenting with RSA encryption in a simple and user-friendly way.
 
-### 🧮 CaesarCipher
+### - 🧮 CaesarCipher
 
 A console application that encodes and decodes text using the Caesar Cipher algorithm.
 
-### ❓ RandomPersonService
+### - ❓ RandomPersonService
 
 Generates random personal data using asynchronous HTTP operations, Google Maps API and my librarie - RandomPersonalDataGenerator.
 
-### 🔍 GrepForWindows
+### - 🔍 GrepForWindows
 
 A Windows utility inspired by the classic grep, designed for quick text search in files.
 
-### 🐄 CowsayForWindows
+### - 🐄 CowsayForWindows
 
 A fun console application that mimics the famous cowsay program.
 
