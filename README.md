@@ -24,6 +24,10 @@ Currently, I'm:
 
 Here are some of the projects I've worked on:
 
+- ### ASCIIArtFighter
+
+Console-based RPG game where players fight against various enemies in a series of stages. 
+  
 - ### 🔐 SimpleRSA
 
 A tool for learning and experimenting with RSA encryption in a simple and user-friendly way.
